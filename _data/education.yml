@@ -1,13 +1,15 @@
 # Degree
-- degree: Bachelor of Engeering, Department of Robotics (information control)
+- degree: Master of Engineering, Department of Automobile and IT Convergence
+  uni: Kookmin University 
+  year: 2020
+  #award: Most likely to succeed
+  summary: Research interested in Human-machine/computer interface, UX/UI
+
+- degree: Bachelor of Engineering, Department of Robotics (information control)
   uni: Kwangwoon University
   year: 2018
   #awards:
   #  - award: Summa Cumme Laude graduate
   summary: Research interested in Human-robot interface 
 
-- degree: Master of Engeenring, Department of Automobile and IT Convergence
-  uni: Kookmin University 
-  year: 2020
-  #award: Most likely to succeed
-  summary: Research interested in Human-machine/computer interface, UX/UI
+
